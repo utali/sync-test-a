@@ -1,0 +1,22 @@
+{
+  "name": "sync-test-a",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/utali/sync-test-a.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/utali/sync-test-a/issues"
+  },
+  "homepage": "https://github.com/utali/sync-test-a#readme",
+  "dependencies": {
+    "dayjs": "^1.11.5"
+  }
+}
